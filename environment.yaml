@@ -1,0 +1,14 @@
+name: pulsar_fallback
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyter=1.0.0
+  - matplotlib=3.3.4
+  - nb_conda=2.2.1
+  - numpy=1.19.2
+  - pandas=1.2.4
+  - python=3.8.10
+  - scipy=1.6.3
+
+
